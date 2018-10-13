@@ -1,0 +1,3 @@
+[submodule "Lychee"]
+	path = Lychee
+	url = https://github.com/electerious/Lychee.git
